@@ -1,6 +1,6 @@
 # Color-picker-game
 
-
+A simple game where user needs to guess the color by its value (hex, rgb, hsl)
 
 Live Site URL: [color-picker-game](https://color-game-f41a7.web.app/)
 
@@ -10,20 +10,18 @@ Live Site URL: [color-picker-game](https://color-game-f41a7.web.app/)
 - HTML
 - CSS
 - Javascript
-- Date-fns library
+- color-convert and colorjs.io libraries
 
 
 ## Features:
 
-- Change current month by clicking on '<' and '>' buttons
-- Go to current date by clicking 'today' button
-- Add an event by clicking on '+' icon when hovering over any date
-- Edit an event by clicking on it
-- If there are more than 3 events on a single date, a 'x more' button will appear which when clicked, will show all the events on that date
-- When page is refreshed, all events are saved
+- Change color format (hex, rgb, hsl)
+- Change difficulty
 
 ## Screenshot
-![React App 11-22-2021 5-32-39 PM](https://user-images.githubusercontent.com/92994473/142899250-5d162da1-e722-4541-a142-b15f878a50ac.png)
+![Color Game 11-22-2021 7-48-33 PM](https://user-images.githubusercontent.com/92994473/142918205-22c0d406-db3a-46ce-ae3e-354f7b95b5e5.png)
+
+
 
 
 
